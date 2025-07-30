@@ -36,3 +36,19 @@ JOIN (
   WHERE estado = 'En progreso'
 ) requisitos_en_progreso 
 ON cp.id_requisito = requisitos_en_progreso.id_requisito;
+
+CREATE VIEW nombre_ejecucion AS 
+SELECT DISTINCT Usuario.nombre 
+FROM Usuario JOIN Ejecucion 
+ON Usuario.id_usuario = Ejecucion.id_usuario;
+
+CREATE VIEW proyecto_responsable AS 
+SELECT Proyecto.nombre AS proyecto_nombre, Usuario.nombre 
+AS usuario_nombre  FROM Proyecto  
+JOIN Usuario ON Proyecto.id_usuario = Usuario.id_usuario;
+
+CREATE VIEW cp_proyecto AS 
+SELECT Caso_Prueba.descripcion 
+AS descripcion_caso, Proyecto.nombre  
+FROM Caso_Prueba  JOIN Proyecto 
+ON Caso_Prueba.id_proyecto = Proyecto.id_proyecto;

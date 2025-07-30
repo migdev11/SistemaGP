@@ -1,0 +1,5 @@
+id_usuario,nombre,correo,rol,id_rol
+1,Juan Pérez,juan.perez@gmail.com,Director,1
+2,María Gómez,mariagomez@gmail.com,Tester,3
+3,Carlos López,carloslopez@gmail.com,Creador,2
+4,Miguel,miguel@gmail.com,Tester,3

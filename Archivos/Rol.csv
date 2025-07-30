@@ -1,0 +1,4 @@
+id_rol,nombre,descripcion
+1,Director,"Tiene acceso completo al sistema"
+2,Creador,"Encargado de desarrollar funcionalidades"
+3,Tester,"Encargado de realizar pruebas"

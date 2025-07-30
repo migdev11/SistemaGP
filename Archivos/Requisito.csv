@@ -1,0 +1,7 @@
+id_requisito,prioridad,descripcion,estado
+1,Alta,"Registrar usuarios en el sistema.",Completado
+2,Media,"Gestionar tareas asignadas.",En progreso
+3,Baja,"Generar informes de ventas.",Pendiente
+4,Alta,"El sistema debe permitir agregar productos",Pendiente
+5,Baja,"Agregar filtros de búsqueda por ciudad",Completado
+6,Media,"Permitir agregar historial médico",En revisión

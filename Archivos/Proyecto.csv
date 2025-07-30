@@ -1,0 +1,6 @@
+id_proyecto,estado,nombre,descripcion,fecha_inicio,fecha_fin,id_usuario,id_requisito
+1,Activo,"Sistema de Gestión de Proyectos","Un sistema para gestionar proyectos.",2023-01-01,2023-12-31,1,1
+2,Pendiente,"Plataforma de E-commerce","Una plataforma para comercio electrónico.",2023-02-01,,2,1
+3,Activo,"Sistema Inventario","Gestión de productos",2025-01-01,2025-06-01,3,4
+4,Finalizado,"Portal Empleos","Bolsa de trabajo online",2024-09-15,2025-02-20,2,5
+5,"En pausa","App Móvil Salud","Aplicación de control médico",2025-02-01,2025-08-01,2,6

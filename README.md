@@ -54,6 +54,6 @@ Documento formal que describe el desarrollo del proyecto, metodología utilizada
 
 ## 👨‍💻 Autor
 
-- Nombre: Miguel Veintimilla
-- Institución: Ubiversidad Nacional de Loja
+- Nombre: Miguel Veintimilla, Richard Cajas
+- Institución: Universidad Nacional de Loja
 - Carrera: Ingenieria en Sistemas Computacionales
